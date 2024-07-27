@@ -1,0 +1,45 @@
+
+tennisUI.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Music
+  rotate: false
+  xy: 323, 129
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+Music_down
+  rotate: false
+  xy: 645, 321
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+Button_down
+  rotate: false
+  xy: 515, 643
+  size: 320, 320
+  split: 0, 0, 131, 86
+  pad: 0, 0, 0, 0
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+Button_up
+  rotate: false
+  xy: 1, 129
+  size: 320, 320
+  split: 0, 0, 123, 83
+  pad: 0, 0, 0, 0
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+pixel
+  rotate: false
+  xy: 1, 451
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

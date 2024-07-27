@@ -1,0 +1,59 @@
+{
+"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+	"pixel": {
+		"file": "pixel.fnt",
+		"scaledSize": -1,
+		"markupEnabled": false,
+		"flip": false
+	}
+},
+"com.badlogic.gdx.graphics.Color": {
+	"RGBA_106_210_226_255": {
+		"r": 0.16862746,
+		"g": 0.3137255,
+		"b": 0.8156863,
+		"a": 1
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable": {
+	"up": {
+		"name": "white-pixel",
+		"color": "RGBA_106_210_226_255"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+	"default": {
+		"font": "pixel",
+		"fontColor": "RGBA_106_210_226_255"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+	"default": {
+		"font": "pixel",
+		"fontColor": "RGBA_106_210_226_255",
+		"downFontColor": "RGBA_106_210_226_255",
+		"overFontColor": "RGBA_106_210_226_255",
+		"focusedFontColor": "RGBA_106_210_226_255",
+		"disabledFontColor": "RGBA_106_210_226_255",
+		"checkedFontColor": "RGBA_106_210_226_255",
+		"checkedDownFontColor": "RGBA_106_210_226_255",
+		"checkedOverFontColor": "RGBA_106_210_226_255",
+		"checkedFocusedFontColor": "RGBA_106_210_226_255",
+		"up": "Button_up",
+		"down": "Button_down",
+		"over": "Button_up",
+		"focused": "Button_up",
+		"disabled": "Button_down",
+		"checked": "Button_up",
+		"checkedOver": "Button_up",
+		"checkedDown": "Button_up",
+		"checkedFocused": "Button_up",
+		"pressedOffsetX": 6
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle": {
+	"default": {
+		"label": "default"
+	}
+}
+}

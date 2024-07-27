@@ -1,0 +1,24 @@
+
+Start_skin.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Start_down
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  split: 0, 0, 72, 83
+  pad: 0, 0, 0, 0
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Start_up
+  rotate: false
+  xy: 1, 259
+  size: 256, 256
+  split: 0, 0, 65, 90
+  pad: 0, 0, 0, 0
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
